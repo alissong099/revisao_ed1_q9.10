@@ -15,6 +15,10 @@ Este repositório contém a implementação de uma **Fila Dinâmica Circular** d
   - Irene Maria Lopes da Costa
 
 ---
+## 🎥 Vídeo Explicativo
+
+> 🔗 **Link do Vídeo:** (LINK_AQUI)  
+> *Acesse o link acima para conferir a explicação detalhada do código e o funcionamento da Fila Dinâmica Circular.*
 
 ## 📌 Sobre o Projeto
 
