@@ -55,17 +55,17 @@ Ter um compilador C (como o **GCC**) instalado na sua máquina.
 
 2. **Abra o terminal** na pasta onde o arquivo foi salvo e compile o projeto:
    ```bash
-   gcc fila.c -o fila
+   gcc fila_circular.c -o fila_circular
    ```
 
 3. **Execute o programa:**
    - **Linux / macOS:**
      ```bash
-     ./fila
+     ./fila_circular
      ```
    - **Windows (CMD/PowerShell):**
      ```cmd
-     .\fila.exe
+     .\fila_circular.exe
      ```
 
 ---
