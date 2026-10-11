@@ -17,7 +17,7 @@ Este repositório contém a implementação de uma **Fila Dinâmica Circular** d
 ---
 ## 🎥 Vídeo Explicativo
 
-> 🔗 **Link do Vídeo:** (LINK_AQUI)  
+> 🔗 **Link do Vídeo:** (https://drive.google.com/file/d/1kItlOw6TpPiWVKMCxe9z2kQRtMkgMbVl/view?usp=drivesdk)  
 > *Acesse o link acima para conferir a explicação detalhada do código e o funcionamento da Fila Dinâmica Circular.*
 
 ## 📌 Sobre o Projeto
